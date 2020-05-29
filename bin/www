@@ -5,7 +5,8 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('silkread-app:server');
+// var debug = require('debug')('silkread-app:server');
+var debug = require('debug')('silkread_app');
 var http = require('http');
 
 /**
